@@ -1,0 +1,21 @@
+======== Projek Lab SDBL 1 =========
+S1 Ilmu Komputer Universitas Sumatera Utara
+
+Nama 	: Abid Tondi Nugraha
+NIM	: 191401001
+Kom	: A
+Asisten : Dimas Eka Putra
+
+1. Login
+
+user =
+email 	: tondi@gmail.com
+pass	: abid
+
+admin =
+email	: nugraha@gmail.com
+pass	: 12345
+
+
+
+
